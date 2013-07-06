@@ -1,0 +1,5 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/ID_SAVE" android:title="保存" android:icon="@android:drawable/ic_menu_save"></item>
+    <item android:id="@+id/ID_EDIT" android:icon="@android:drawable/ic_menu_edit" android:title="编辑"></item>
+
+</menu>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="items">
+        <item >课程格子</item>
+        <item >学术海报</item>
+        <item >学术前沿</item>
+        <item >交通服务</item>
+        <item >成绩查询</item>
+        <item >地图导航</item>
+        <item >常用电话</item>
+        <item >学校周边</item>
+    </string-array>
+    
+</resources>
